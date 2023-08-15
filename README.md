@@ -42,22 +42,6 @@ For a strong password, please use a hard to guess combination of text with upper
 ## Test case sheet:
 https://docs.google.com/spreadsheets/d/1-RC1HgEJm_2bM41JdL4L5vdZrwB3cjjycT649Tx8DF0/edit?usp=sharing
 
-## Allure Report for Master Suite Execution:
-![master suit overview](https://github.com/foysal619/WebAutomation-TestNG-OrangeHRM/assets/61048879/dd516f9f-464d-4bc3-a87c-21fc3e0dce99)
-
-![master suite behaivior](https://github.com/foysal619/WebAutomation-TestNG-OrangeHRM/assets/61048879/a7b544c4-38d4-4531-a187-fd6154d07aeb)
-
-## Allure Report for Smoke Suite Execution:
-![smoke suite overview](https://github.com/foysal619/WebAutomation-TestNG-OrangeHRM/assets/61048879/c579cd56-784f-450d-9779-a4bfcda79398)
-
-![smoke suite behaivior](https://github.com/foysal619/WebAutomation-TestNG-OrangeHRM/assets/61048879/8c1855b7-a621-4b6e-899c-c970f61a506f)
-
-## Automation Demonstration Video (Master Suite Execution):
-https://github.com/foysal619/WebAutomation-TestNG-OrangeHRM/assets/61048879/e51e2e15-8177-4edc-b202-9301c0f1725f
-
-## Automation Demonstration Video (Smoke Suite Execution):
-https://docs.google.com/spreadsheets/d/1AKjAu7iSBNI2xwp70czkzqSsnH5yqB3ezG7jvcUPHk4/edit?usp=sharing
-
 Allure Report for Master Suite Execution:
 ![Screenshot_2](https://github.com/Wasiur195/OrangeHRM-Automation-Testing/assets/23733827/5f36eff3-f6e5-432d-9419-b80da25d6cb7)
 ![Screenshot_3](https://github.com/Wasiur195/OrangeHRM-Automation-Testing/assets/23733827/113ede91-d756-4f14-97af-36d4a92b9afd)
